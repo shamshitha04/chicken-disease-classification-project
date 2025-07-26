@@ -21,7 +21,9 @@ list_of_files=[
     "params.yaml",
     "requriments.txt",
     "setup.up",
-    "research/trials.ipynb"
+    "research/trials.ipynb",
+    "templates/index.html",
+
     
 
 
